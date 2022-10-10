@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IsmailHatim
 - 👀 I’m interested in Computer Engineering 
 - 🌱 I’m currently learning it at ENSEA, an Engineering school in Paris
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : https://www.
